@@ -1,0 +1,16 @@
+sugeno
+2
+energia 0 10
+2
+dsigmf ruim 2.289 1.5 2.289 4.5 #
+gaussmf bom 1.212 7.34 #
+atraso 0 10
+2
+zmf ruim 2.85 5.75 #
+smf bom 3.5 5.8 #
+1
+custo
+2
+linear ruim 1 4 7 #
+linear bom 7 11 15 #
+
